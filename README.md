@@ -1,4 +1,4 @@
-### Hi there, I'm Gyeonghun - aka Jay  👋
+### Hi there, I'm Gyeonghun - aka Jay 👋
 
 ## I'm a passionate Student, Learner, and Developer!!
 
@@ -8,7 +8,6 @@
 - ⚡ Fun fact: I love to cook and play soccer / baseball
 
 <br />
-
 
 ### Languages and Tools:
 
@@ -31,3 +30,25 @@
 
 <br />
 <br />
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://codestackr.com)
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Gyeonghun's GitHub Stats" src="https://github-readme-stats.gyeonghun-park.vercel.app/api?username=Gyeonghun&show_icons=true&hide_border=true&hide=stars" />
+
+</details>
