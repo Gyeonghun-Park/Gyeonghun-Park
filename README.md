@@ -31,6 +31,8 @@
 <br />
 <br />
 
+---
+
 ### 📕 &nbsp; Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -38,7 +40,7 @@
 
 ➡️ [ &nbsp; more blog posts...]()
 
-<br />
+---
 
 <details>
   <summary>:zap:   &nbsp;  Recent GitHub Activity</summary>
