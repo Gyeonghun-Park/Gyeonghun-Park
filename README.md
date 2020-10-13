@@ -38,15 +38,12 @@
 
 ➡️ [ &nbsp; more blog posts...]()
 
+<br />
+
 <details>
   <summary>:zap:   &nbsp;  Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/Gyeonghun-Park/shipping_line-django/pull/3) in [Gyeonghun-Park/shipping_line-django](https://github.com/Gyeonghun-Park/shipping_line-django)
-2. 🎉 Merged PR [#2](https://github.com/Gyeonghun-Park/shipping_line-django/pull/2) in [Gyeonghun-Park/shipping_line-django](https://github.com/Gyeonghun-Park/shipping_line-django)
-3. ❌ Reopened PR [#2](https://github.com/Gyeonghun-Park/shipping_line-django/pull/2) in [Gyeonghun-Park/shipping_line-django](https://github.com/Gyeonghun-Park/shipping_line-django)
-4. ❌ Closed PR [#2](https://github.com/Gyeonghun-Park/shipping_line-django/pull/2) in [Gyeonghun-Park/shipping_line-django](https://github.com/Gyeonghun-Park/shipping_line-django)
-5. 💪 Opened PR [#2](https://github.com/Gyeonghun-Park/shipping_line-django/pull/2) in [Gyeonghun-Park/shipping_line-django](https://github.com/Gyeonghun-Park/shipping_line-django)
 <!--END_SECTION:activity-->
 
 </details>
