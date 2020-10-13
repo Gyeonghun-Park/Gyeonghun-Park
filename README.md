@@ -38,7 +38,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [ &nbsp; more blog posts...]()
+➡️ [ &nbsp; more blog posts...](https://gyeonghun-park.github.io/)
 
 ---
 
