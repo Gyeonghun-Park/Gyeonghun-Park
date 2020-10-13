@@ -2,10 +2,10 @@
 
 ## I'm a passionate Student, Learner, and Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 🌈 I am aiming to elevate people through meaningful service
-- 🥅 Crrent Goals: Committing code to GitHub for the whole month of October
-- ⚡ Fun fact: I love to cook and play soccer / baseball
+- 🌱 &nbsp; I’m currently learning everything 🤣
+- 🌈 &nbsp; I am aiming to elevate people through meaningful service
+- 🥅 &nbsp; Crrent Goals: Committing code to GitHub for the whole month of October
+- ⚡ &nbsp; Fun fact: I love to cook and play soccer / baseball
 
 <br />
 
@@ -31,15 +31,15 @@
 <br />
 <br />
 
-### 📕 Latest Blog Posts
+### 📕 &nbsp; Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [ &nbsp; more blog posts...]()
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap:   &nbsp;  Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -47,7 +47,7 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap:   &nbsp;  GitHub Stats</summary>
 
   <img align="left" alt="Gyeonghun's GitHub Stats" src="https://github-readme-stats.gyeonghun-park.vercel.app/api?username=Gyeonghun&show_icons=true&hide_border=true&hide=stars" />
 
