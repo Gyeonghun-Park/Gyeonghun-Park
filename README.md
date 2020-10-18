@@ -11,8 +11,6 @@
 
 ### 📕 &nbsp; Blog Posts(https://gyeonghun-park.github.io/)
 
-<br />
-
 ---
 
 ### Languages and Tools:
