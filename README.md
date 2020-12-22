@@ -40,7 +40,7 @@
   <summary>:zap:   &nbsp;  Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Gyeonghun-Park/shipping_line-django/pull/7) in [Gyeonghun-Park/shipping_line-django](https://github.com/Gyeonghun-Park/shipping_line-django)
+1. 🎉 Merged PR [#8](https://github.com/Gyeonghun-Park/shipping_line-django/pull/8) in [Gyeonghun-Park/shipping_line-django](https://github.com/Gyeonghun-Park/shipping_line-django)
 2. 🎉 Merged PR [#6](https://github.com/Gyeonghun-Park/shipping_line-django/pull/6) in [Gyeonghun-Park/shipping_line-django](https://github.com/Gyeonghun-Park/shipping_line-django)
 3. 💪 Opened PR [#6](https://github.com/Gyeonghun-Park/shipping_line-django/pull/6) in [Gyeonghun-Park/shipping_line-django](https://github.com/Gyeonghun-Park/shipping_line-django)
 4. 🎉 Merged PR [#3](https://github.com/Gyeonghun-Park/shipping_line-django/pull/3) in [Gyeonghun-Park/shipping_line-django](https://github.com/Gyeonghun-Park/shipping_line-django)
