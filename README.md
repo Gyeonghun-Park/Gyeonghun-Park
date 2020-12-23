@@ -40,8 +40,8 @@
   <summary>:zap:   &nbsp;  Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Gyeonghun-Park/shipping_line-django/pull/8) in [Gyeonghun-Park/shipping_line-django](https://github.com/Gyeonghun-Park/shipping_line-django)
-2. 🎉 Merged PR [#6](https://github.com/Gyeonghun-Park/shipping_line-django/pull/6) in [Gyeonghun-Park/shipping_line-django](https://github.com/Gyeonghun-Park/shipping_line-django)
+1. 🎉 Merged PR [#9](https://github.com/Gyeonghun-Park/shipping_line-django/pull/9) in [Gyeonghun-Park/shipping_line-django](https://github.com/Gyeonghun-Park/shipping_line-django)
+2. 🎉 Merged PR [#8](https://github.com/Gyeonghun-Park/shipping_line-django/pull/8) in [Gyeonghun-Park/shipping_line-django](https://github.com/Gyeonghun-Park/shipping_line-django)
 3. 💪 Opened PR [#6](https://github.com/Gyeonghun-Park/shipping_line-django/pull/6) in [Gyeonghun-Park/shipping_line-django](https://github.com/Gyeonghun-Park/shipping_line-django)
 4. 🎉 Merged PR [#3](https://github.com/Gyeonghun-Park/shipping_line-django/pull/3) in [Gyeonghun-Park/shipping_line-django](https://github.com/Gyeonghun-Park/shipping_line-django)
 5. 💪 Opened PR [#5](https://github.com/Gyeonghun-Park/shipping_line-django/pull/5) in [Gyeonghun-Park/shipping_line-django](https://github.com/Gyeonghun-Park/shipping_line-django)
