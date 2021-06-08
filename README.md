@@ -9,7 +9,7 @@
 
 <br />
 
-### 📕 &nbsp; Blog Posts(https://gyeonghun-park.github.io/)
+### 📕 &nbsp; Portfolio(https://distracted-liskov-02940c.netlify.app/)
 
 ---
 
