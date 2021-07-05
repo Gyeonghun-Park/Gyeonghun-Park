@@ -2,7 +2,7 @@
 
 ## I'm a passionate Student, Learner, and Developer!!
 
-- 🌱 &nbsp; I’m currently learning everything 🤣
+- 🌱 &nbsp; I’m currently learning Golang
 - 🌈 &nbsp; I am aiming to elevate people through meaningful service
 - 🥅 &nbsp; Crrent Goals: Committing code to GitHub for the whole month of October
 - ⚡ &nbsp; Fun fact: I love to cook and play soccer / baseball
