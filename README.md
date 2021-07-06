@@ -4,7 +4,7 @@
 
 - 🌱 &nbsp; I’m currently learning Golang
 - 🌈 &nbsp; I am aiming to elevate people through meaningful service
-- 🥅 &nbsp; Crrent Goals: Committing code to GitHub for the whole month of October
+- 🥅 &nbsp; Crrent Goals: Committing code to GitHub for the whole month of August
 - ⚡ &nbsp; Fun fact: I love to cook and play soccer / baseball
 
 <br />
