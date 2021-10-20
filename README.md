@@ -173,7 +173,6 @@
 <br>
 
 ### 📊 &nbsp; Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyeonghun-park&show_icons=true&locale=en&layout=compact&hide=css,scss,html&theme=city_lights" alt="gyeonghun-park" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gyeonghun-park&show_icons=true&locale=en&theme=city_lights&count_private=true" alt="gyeonghun-park" /></p>
 
 :mailbox: Reach me out!
