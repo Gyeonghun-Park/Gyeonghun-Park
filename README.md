@@ -175,7 +175,9 @@
 ### 📊 &nbsp; Github Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gyeonghun-park&show_icons=true&locale=en&theme=city_lights&count_private=true" alt="gyeonghun-park" /></p>
 
-:mailbox: Reach me out!
+<br>
+
+### :mailbox: &nbsp; Reach me out!
 
 [![Facebook Badge](https://img.shields.io/badge/-@Gyeonghun-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010395939047)](https://www.facebook.com/profile.php?id=100010395939047)
 [![Linkedin Badge](https://img.shields.io/badge/-Gyeonghun-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyeonghun-park-095971193/)
