@@ -179,6 +179,6 @@
 
 ### :mailbox: &nbsp; Reach me out!
 
-[![Facebook Badge](https://img.shields.io/badge/-@Gyeonghun-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010395939047)](https://www.facebook.com/profile.php?id=100010395939047)
-[![Linkedin Badge](https://img.shields.io/badge/-Gyeonghun-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyeonghun-park-095971193/)
-[![Mail Badge](https://img.shields.io/badge/-gp112795-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gp112795@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-@Gyeonghun-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010395939047)](https://www.facebook.com/profile.php?id=100010395939047)
+[![Linkedin Badge](https://img.shields.io/badge/-Gyeonghun-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyeonghun-park-095971193/)
+[![Mail Badge](https://img.shields.io/badge/-gp112795-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gp112795@gmail.com)
