@@ -12,7 +12,7 @@
 - 😄 &nbsp; Pronouns: Gyeonghun, Jay, He/Him
 - ⚡ &nbsp; Fun fact: I play games and go to the GYM very often.
 - 🌱 &nbsp; I’m currently learning blockchain
-- 🌈 &nbsp; I am aiming to elevate people through meaningful service
+- 🌈 &nbsp; I'm aiming to elevate people through meaningful service
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/gyeonghun-park-095971193/)
 
