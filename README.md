@@ -37,15 +37,7 @@
       width="42"
     />
   </a>
-    <a href="https://elixir-lang.org" target="_blank" style="margin:10px">
-    <img
-      src="img/elixir.svg"
-      alt="elixir"
-      height="42"
-      width="42"
-    />
-  </a>
-    <a href="https://golang.org" target="_blank" style="margin:10px">
+  <a href="https://golang.org" target="_blank" style="margin:10px">
     <img
       src="img/go.svg"
       alt="go"
@@ -53,8 +45,15 @@
       width="42"
     />
   </a>
-    </a>
-    <a href="https://www.python.org" target="_blank" style="margin:10px">
+    <a href="https://soliditylang.org/" target="_blank" style="margin:10px">
+    <img
+      src="img/solidity.svg"
+      alt="solidity"
+      height="42"
+      width="42"
+    />
+  </a>
+  <a href="https://www.python.org" target="_blank" style="margin:10px">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       alt="python"
