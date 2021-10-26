@@ -183,14 +183,6 @@
       width="42"
     />
   </a>
-  <a href="https://unity.com/" target="_blank" style="margin:10px">
-    <img
-      src="img/unity.svg"
-      alt="unity"
-      height="42"
-      width="42"
-    />
-  </a>
 </p>
 
 <br>
