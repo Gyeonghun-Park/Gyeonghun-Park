@@ -8,7 +8,6 @@
 - :computer: &nbsp; Most used line of code `git commit -m "Initial Commit"`
 - 🤔 &nbsp; I’m looking for help with outstanding blog post ideas.
 - 😄 &nbsp; Pronouns: Gyeonghun, Jay, He/Him
-- ⚡ &nbsp; Fun fact: I play games and go to the GYM very often.
 - 🌱 &nbsp; I’m currently learning blockchain
 - 🌈 &nbsp; I'm aiming to elevate people through meaningful service
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
