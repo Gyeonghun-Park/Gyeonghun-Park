@@ -1,4 +1,4 @@
-### Hi there, I'm Gyeonghun &nbsp; <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
+### Hi there, I'm Gyeonghun &nbsp; <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 <img align="right" alt="GIF" src="img/techstack.gif" width="300px"/>
 
@@ -37,6 +37,14 @@
     <img
       src="img/go.svg"
       alt="go"
+      height="42"
+      width="42"
+    />
+  </a>
+  <a href="https://www.rust-lang.org/" target="_blank" style="margin:10px">
+    <img
+      src="img/rust.svg"
+      alt="rust"
       height="42"
       width="42"
     />
@@ -111,6 +119,14 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
       alt="redux"
+      height="42"
+      width="42"
+    />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" style="margin:10px">
+    <img
+      src="img/next.svg"
+      alt="nextjs"
       height="42"
       width="42"
     />
