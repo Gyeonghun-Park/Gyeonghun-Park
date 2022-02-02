@@ -5,7 +5,6 @@
 ### 🧐 &nbsp; More About Me:
 
 - 🔭 &nbsp; I'm currently contributing to open sources.
-- :computer: &nbsp; Most used line of code `git commit -m "Initial Commit"`
 - 🤔 &nbsp; I’m looking for help with outstanding blog post ideas.
 - 😄 &nbsp; Pronouns: Gyeonghun, Jay, He/Him
 - 🌱 &nbsp; I’m currently learning Blockchain and cryptography.
