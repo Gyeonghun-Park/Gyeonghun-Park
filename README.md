@@ -1,30 +1,18 @@
-# Gyeonghun Park
+# Hello, I'm Gyeonghun
 
-Full-stack engineer building reliable product systems across frontend, backend, and infrastructure.
+I build things for the web—products, tools, and small interactive experiments.
 
-I turn ambiguous workflows into systems that stay understandable and recoverable in production—from B2B ordering and payments to permission-aware AI search.
+Lately, I have been thinking about reliable software, permission-aware AI, and how far graphics in a browser can go.
 
-[Potato Log](https://potatolog.dev/) · [Potato Log Works](https://works.potatolog.dev/) · [LinkedIn](https://www.linkedin.com/in/gyeonghun-park-095971193/)
+I write at [Potato Log](https://potatolog.dev/) about what I learn while making software: why systems behave the way they do, where boundaries matter, and what breaks between an idea and a working product.
 
-## What I build
+I keep the more visual side of my work at [Potato Log Works](https://works.potatolog.dev/): waves, pixels, simulations, and other things that are more fun to try than to explain.
 
-- **End-to-end product workflows** — Connect customer apps, internal tools, and APIs across account opening, pricing, ordering, payment, fulfillment, and refunds.
-- **Reliable payment and settlement systems** — Design idempotent approval, webhook, reconciliation, refund, and payout flows that can recover from timeouts and uncertain external results.
-- **Permission-aware knowledge systems** — Apply document access control consistently across ingestion, retrieval, citations, and answer generation, failing closed when authorization data is missing or stale.
-- **Delivery foundations** — Automate infrastructure and releases with Terraform, GitHub Actions, and environment-scoped AWS access.
+Every now and then, I send a focused fix upstream:
 
-## Open source
+- [oRPC](https://github.com/middleapi/orpc/pull/1922) — a NestJS request-limit regression fix
+- [Fumadocs](https://github.com/fuma-nama/fumadocs/pull/3423) — an accessibility fix for navigation semantics
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75251) — a Three.js declaration correction
+- [Headroom](https://github.com/headroomlabs-ai/headroom/pull/130) — keyless CLI backends for `headroom learn`
 
-- [oRPC](https://github.com/middleapi/orpc/pull/1922) — Restored request-limit enforcement in NestJS by decoding routed requests correctly, with Express and Fastify regression coverage.
-- [Fumadocs](https://github.com/fuma-nama/fumadocs/pull/3423) — Corrected invalid navigation-list semantics without changing interaction behavior, eliminating a serious axe accessibility violation.
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75251) — Aligned the Three.js CRT declaration with its runtime `barrelMask` export and added regression coverage.
-- [Headroom](https://github.com/headroomlabs-ai/headroom/pull/130) — Added keyless CLI backends for `headroom learn`, including Claude Code, Gemini CLI, and Codex with explicit failure handling.
-
-## Writing and experiments
-
-- [Potato Log](https://potatolog.dev/) — Notes on system boundaries, authorization, browser performance, and data visualization.
-- [Potato Log Works](https://works.potatolog.dev/) — Interactive experiments in graphics, simulation, and creative coding.
-
-## Core tools
-
-`TypeScript` · `React` · `React Native` · `NestJS` · `AWS` · `Terraform`
+You can also find me on [LinkedIn](https://www.linkedin.com/in/gyeonghun-park-095971193/).
