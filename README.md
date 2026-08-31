@@ -1,212 +1,30 @@
-### Hi there, I'm Gyeonghun &nbsp; <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Gyeonghun Park
 
-<img align="right" alt="GIF" src="img/techstack.gif" width="300px"/>
+Full-stack engineer building reliable product systems across frontend, backend, and infrastructure.
 
-### 🧐 &nbsp; More About Me:
+I turn ambiguous workflows into systems that stay understandable and recoverable in production—from B2B ordering and payments to permission-aware AI search.
 
-- 🔭 &nbsp; I'm currently contributing to open sources.
-- 😄 &nbsp; Pronouns: Gyeonghun, Jay, He/Him
-- 🌱 &nbsp; I’m currently learning Blockchain and cryptography.
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help.
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/gyeonghun-park-095971193/)
+[Potato Log](https://potatolog.dev/) · [Potato Log Works](https://works.potatolog.dev/) · [LinkedIn](https://www.linkedin.com/in/gyeonghun-park-095971193/)
 
-<br>
+## What I build
 
-### 🔨 &nbsp; Languages and Tools:
+- **End-to-end product workflows** — Connect customer apps, internal tools, and APIs across account opening, pricing, ordering, payment, fulfillment, and refunds.
+- **Reliable payment and settlement systems** — Design idempotent approval, webhook, reconciliation, refund, and payout flows that can recover from timeouts and uncertain external results.
+- **Permission-aware knowledge systems** — Apply document access control consistently across ingestion, retrieval, citations, and answer generation, failing closed when authorization data is missing or stale.
+- **Delivery foundations** — Automate infrastructure and releases with Terraform, GitHub Actions, and environment-scoped AWS access.
 
-<p>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" style="margin:10px">
-    <img
-      src="img/c-plusplus.svg"
-      alt="cplusplus"
-      height="42"
-      width="42"
-    />
-  </a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="margin:10px">
-    <img
-      src="img/c-sharp.svg"
-      alt="csharp"
-      height="42"
-      width="42"
-    />
-  </a>
-  <a href="https://golang.org" target="_blank" style="margin:10px">
-    <img
-      src="img/go.svg"
-      alt="go"
-      height="42"
-      width="42"
-    />
-  </a>
-  <a href="https://www.rust-lang.org/" target="_blank" style="margin:10px">
-    <img
-      src="img/rust.svg"
-      alt="rust"
-      height="42"
-      width="42"
-    />
-  </a>
-    <a href="https://soliditylang.org/" target="_blank" style="margin:10px">
-    <img
-      src="img/solidity.svg"
-      alt="solidity"
-      height="42"
-      width="42"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" style="margin:10px">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      height="42"
-      width="42"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank" style="margin:10px"
-  >
-    <img
-      src="img/javascript.svg"
-      alt="javascript"
-      height="42"
-      width="42"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" style="margin:10px">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      height="42"
-      width="42"
-    />
-  <a href="https://dotnet.microsoft.com/" target="_blank" style="margin:10px">
-    <img
-      src="img/dotnet.svg"
-      alt="dotnet"
-      height="42"
-      width="42"
-    />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" style="margin:10px">
-    <img
-      src="img/django.svg"
-      alt="django"
-      height="42"
-      width="42"
-    />
-  </a>
-  <a href="https://nestjs.com" target="_blank" style="margin:10px">
-    <img
-      src="img/nestjs.svg"
-      alt="nestjs"
-      height="42"
-      width="42"
-    />
-  </a>
-    <a href="https://reactjs.org/" target="_blank" style="margin:10px">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      height="42"
-      width="42"
-    />
-  </a>
-    <a href="https://redux.js.org" target="_blank" style="margin:10px">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      height="42"
-      width="42"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" style="margin:10px">
-    <img
-      src="img/next.svg"
-      alt="nextjs"
-      height="42"
-      width="42"
-    />
-  </a>
-    <a href="https://tailwindcss.com/" target="_blank" style="margin:10px">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      height="42"
-      width="42"
-    />
-  </a>
-  <a href="https://graphql.org" target="_blank" style="margin:10px">
-    <img
-      src="img/graphql.svg"
-      alt="graphql"
-      height="42"
-      width="42"
-    />
-  </a>
-  <a href="https://redis.io" target="_blank" style="margin:10px">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-      alt="redis"
-      height="42"
-      width="42"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" style="margin:10px">
-    <img
-      src="img/mongodb.svg"
-      alt="mongodb"
-      height="42"
-      width="42"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" style="margin:10px">
-    <img
-      src="img/nodejs.svg"
-      alt="nodejs"
-      height="42"
-      width="42"
-    />
-  </a>
+## Open source
 
-  <a href="https://aws.amazon.com" target="_blank" style="margin:10px">
-    <img
-      src="img/aws.svg"
-      alt="aws"
-      height="42"
-      width="42"
-    />
-  </a>
+- [oRPC](https://github.com/middleapi/orpc/pull/1922) — Restored request-limit enforcement in NestJS by decoding routed requests correctly, with Express and Fastify regression coverage.
+- [Fumadocs](https://github.com/fuma-nama/fumadocs/pull/3423) — Corrected invalid navigation-list semantics without changing interaction behavior, eliminating a serious axe accessibility violation.
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75251) — Aligned the Three.js CRT declaration with its runtime `barrelMask` export and added regression coverage.
+- [Headroom](https://github.com/headroomlabs-ai/headroom/pull/130) — Added keyless CLI backends for `headroom learn`, including Claude Code, Gemini CLI, and Codex with explicit failure handling.
 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" style="margin:10px">
-    <img
-      src="img/azure.svg"
-      alt="azure"
-      height="42"
-      width="42"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" style="margin:10px">
-    <img
-      src="img/linux.svg"
-      alt="linux"
-      height="42"
-      width="42"
-    />
-  </a>
-</p>
+## Writing and experiments
 
-<br>
+- [Potato Log](https://potatolog.dev/) — Notes on system boundaries, authorization, browser performance, and data visualization.
+- [Potato Log Works](https://works.potatolog.dev/) — Interactive experiments in graphics, simulation, and creative coding.
 
-### 📊 &nbsp; Github Stats
+## Core tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gyeonghun-park&show_icons=true&locale=en&theme=city_lights&count_private=true" alt="gyeonghun-park" /></p>
-
-<br>
-
-### :mailbox: &nbsp; Reach me out!
-
-[![Facebook Badge](https://img.shields.io/badge/-@Gyeonghun-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010395939047)](https://www.facebook.com/profile.php?id=100010395939047)
-[![Linkedin Badge](https://img.shields.io/badge/-Gyeonghun-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyeonghun-park-095971193/)
-[![Mail Badge](https://img.shields.io/badge/-gp112795-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gp112795@gmail.com)
+`TypeScript` · `React` · `React Native` · `NestJS` · `AWS` · `Terraform`
